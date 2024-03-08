@@ -1,0 +1,16 @@
+{
+    "name": "BlueOyster.steam-client-unity",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1439ff79db67f417cb4f42897132f466"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

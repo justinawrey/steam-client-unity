@@ -1,0 +1,14 @@
+{
+  "name": "com.blueoyster.steam-client-unity",
+  "version": "0.1.0",
+  "description": "Facepunch.Steamworks convenience implementation for Unity.",
+  "displayName": "steam-client-unity",
+  "dependencies": {
+    "com.blueoyster.singletons-unity": "0.1.2"
+  },
+  "author": {
+    "name": "Justin Awrey",
+    "email": "justin@justinawrey.com",
+    "url": "https://justinawrey.com"
+  }
+}
