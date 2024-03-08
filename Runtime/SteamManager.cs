@@ -13,6 +13,7 @@ namespace SteamManagement
       _configuration = Resources.Load<SteamConfiguration>("steam-configuration");
       if (_configuration == null)
       {
+        Debug.LogWarning("SteamManager: could not find steam configuration.  Create one at Resources/steam-configuration.");
         return;
       }
 
